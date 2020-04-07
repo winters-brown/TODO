@@ -1,10 +1,10 @@
 # TODO
 Some simple projects I would enjoy coding in my free time!
 
-\[ ] [Simple Web Scraper](Simple-Web-Scraper)  
-\[ ] [API](API)
-\[ ] [Basic Web Server](Basic-Web-Server)
-\[ ] [Chip-8 Emulator](Chip-8-Emulator)
+[x] [Simple Web Scraper](Simple-Web-Scraper)  
+[x] [API](API)
+[x] [Basic Web Server](Basic-Web-Server)
+[x] [Chip-8 Emulator](Chip-8-Emulator)
 
 # Simple Web Scraper 
 Written in Javascript or C.
