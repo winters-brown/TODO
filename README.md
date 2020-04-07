@@ -1,7 +1,7 @@
 # TODO
 Some simple projects I would enjoy coding in my free time!
 
-[ ] Simple Web Scraper  
+[_] Simple Web Scraper  
 
 # Simple Web Scraper 
 Written in Javascript or C.
