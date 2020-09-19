@@ -2,6 +2,7 @@
 Some simple projects I would enjoy coding in my free time!
 
 - [ ] Multi Camera Home Security System
+- [ ] Manga CMS becuase im a fucking feind
 - [ ] [Simple Web Scraper](#Simple-Web-Scraper)  
 - [ ] [API](#API)
 - [ ] [Basic Web Server](#Basic-Web-Server)
